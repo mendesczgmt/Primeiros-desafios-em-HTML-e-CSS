@@ -1,0 +1,88 @@
+@charset "UTF-8";
+
+body{
+    background-color: #222222;
+    border: 0;
+    padding: 0;
+    max-width: 1200;
+    
+}
+
+main{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+#cadastro{
+    margin: 200px 350px;
+   
+    
+}
+
+#email{
+    width: 450px;
+    border: block black;
+    height: 50px;
+    border: 0;
+}
+
+#botton{
+    width: 150px;
+    height: 52px;
+    border: 0;
+    background-color: red;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+
+}
+
+#botton:hover {
+    cursor: pointer;
+    background-color:rgba(255, 0, 0, 0.644) ;
+    height: 53px;
+}
+
+#infor {
+    margin: 25px 120px auto;
+    width: 600px;
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+#SL{
+    margin:0px 100px;
+}
+
+#layout {
+    margin: 50px 80px auto;
+    font-size: 30px;
+}
+
+#emaill {
+    margin: 10px 45px ;
+    width: 600px;
+}
+
+header {
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content:space-between ;
+
+}
+#entrar {
+    margin: 20px;
+    height: 30px;
+    background-color: red;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#logo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: red;
+    font-weight: bold;}

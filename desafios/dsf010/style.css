@@ -1,0 +1,103 @@
+* {
+    padding: 0;
+    border: 0;
+    margin: 0;
+    
+}
+
+header { background-image: linear-gradient(#74D4A5, #5CC38A, #256742 );
+    padding: 15px;
+    border: 0;
+}
+
+#titulo {
+    text-align: center;
+    margin: 10px;
+    color: white;
+    
+}
+
+body {
+    background-color: #84E0AD;
+}
+
+main {background-color: white;
+    text-align: center;
+    padding: auto;
+    margin: 8px auto 0px ;
+    max-width: 800px;
+}
+
+nav > ul {
+    list-style: none;
+}
+
+nav > ul > a {
+    text-decoration: none;
+    display: inline-block;
+    padding-right: 10px;
+    border: 0;
+    color: white;
+}
+
+nav > ul > a:hover {
+    text-decoration: underline;
+    color: #19422b;
+}
+
+footer {
+    background-color: #1D643C;
+    text-align: center;
+    
+}
+
+.paragrafo {
+    color: black;
+    text-align: justify;
+    
+}
+
+.segundo {
+    background-image: linear-gradient(to right, #AFD2C3, #ECF7F3, #FEFEFE);
+    text-align: left;
+    margin: 7px;
+    font-family: "iDroid", sans-serif;
+    
+}
+
+p {
+    text-align: center;
+    margin: 10px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: large;
+}
+
+#title {
+    font-family: "iDroid", sans-serif;  
+}
+
+#aprender {
+    background-color: #2FA865;
+    border-radius: 5px;
+    margin: 10px;
+    text-align: left;
+    color: white;
+}
+
+#content {
+    background-color: #C5EBD6;
+    margin: 6px 8px 0px ;
+}
+
+.listas {
+    color: black;
+    justify-content: flex-start;
+}
+
+ul {
+    list-style-type: none;
+}
+
+
